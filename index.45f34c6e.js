@@ -1,0 +1,2 @@
+var e=document.getElementById("menu-button"),n=document.getElementById("menu"),t=document.getElementById("menu-close"),l=document.querySelectorAll(".menu__link");e.addEventListener("click",function(){n.style.display="flex"}),t.addEventListener("click",function(){n.style.display="none"}),l.forEach(function(e){e.addEventListener("click",function(){n.style.display="none"})});
+//# sourceMappingURL=index.45f34c6e.js.map
